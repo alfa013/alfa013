@@ -1,16 +1,29 @@
 ## Hi there 👋
 
 <!--
-**alfa013/alfa013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
+
+🔭 I’m currently working on enhancing my skills in DSA, Data Science.
+
+🌱 I’m currently learning cybersecurity techniques and DevOps.
+
+👯 I’m looking to collaborate on open-source cybersecurity tools or data analysis projects.
+
+💬 Ask me about Python, cybersecurity, data analysis, or anything related to my projects below!
+
+📫 How to reach me: You can reach me via Email or connect with me on LinkedIn.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm a competitive public speaker in both English and Hindi!
+
+<br/>
+
+About Me
+A driven engineering student with hands-on experience in malware analysis, data science, and software development. Seeking to apply a robust technical skill set to analyze and mitigate complex security threats.
+
+🛠️ Technical Skills
+Programming: C, C++, Java, JavaScript, Python, SQL, HTML, CSS, Leetcode
+
+Tools: Cisco Packet Tracer, Docker, FlareVM, Linux, Nmap, PowerBI, Wireshark
