@@ -14,13 +14,11 @@ alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file
 
 📫 How to reach me: You can reach me via Email or connect with me on LinkedIn.
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I'm a competitive public speaker in both English and Hindi!
 
 <br/>
 
-About Me
+About Me: 
 A driven engineering student with hands-on experience in malware analysis, data science, and software development. Seeking to apply a robust technical skill set to analyze and mitigate complex security threats.
 
 🛠️ Technical Skills
