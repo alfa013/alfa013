@@ -16,10 +16,9 @@ alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file
 
 <br/>
 
-About Me: 
-A driven engineering student with hands-on experience in malware analysis, data science, and software development. Seeking to apply a robust technical skill set to analyze and mitigate complex security threats.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
+
 Programming: C, C++, Java, JavaScript, Python, SQL, HTML, CSS, Leetcode
 
 Tools: Cisco Packet Tracer, Docker, FlareVM, Linux, Nmap, PowerBI, Wireshark
