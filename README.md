@@ -14,8 +14,6 @@ alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file
 
 📫 How to reach me: You can reach me via Email or connect with me on LinkedIn.
 
-⚡ Fun fact: I'm a competitive public speaker in both English and Hindi!
-
 <br/>
 
 About Me: 
