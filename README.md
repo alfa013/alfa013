@@ -4,7 +4,7 @@
 alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on enhancing my skills in DSA, Data Science.
+🔭 I’m currently working on enhancing my skills in DSA and Data Science.
 
 🌱 I’m currently learning cybersecurity techniques and DevOps.
 
