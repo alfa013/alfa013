@@ -15,10 +15,3 @@ alfa013/alfa013 is a ✨ special ✨ repository because its README.md (this file
 📫 How to reach me: You can reach me via Email or connect with me on LinkedIn.
 
 <br/>
-
-
-🛠️ Technical Skills:
-
-Programming: C, C++, Java, JavaScript, Python, SQL, HTML, CSS, Leetcode
-
-Tools: Cisco Packet Tracer, Docker, FlareVM, Linux, Nmap, PowerBI, Wireshark
